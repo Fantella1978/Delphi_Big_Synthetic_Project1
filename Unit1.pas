@@ -19,7 +19,7 @@ var
 
   // トークンを作成した後、トークンをどうするかを説明しないのはなぜですか?!
 
-// 2 commits
+  // 2 commits
 
 implementation
 
