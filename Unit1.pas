@@ -1,4 +1,4 @@
-unit Unit1;
+﻿unit Unit1;
 
 interface
 
@@ -16,6 +16,10 @@ type
 
 var
   Form1: TForm1;
+
+  // トークンを作成した後、トークンをどうするかを説明しないのはなぜですか?!
+
+// 2 commits
 
 implementation
 
